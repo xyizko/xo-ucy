@@ -4,3 +4,9 @@
 # What ? 
 
 1. This will have any learning related work from the [Beginner- Blockchain Basics Course ](https://updraft.cyfrin.io/courses/blockchain-basics)
+
+# SubDirs 
+
+Dir | What
+:--: | :--: 
+[`nbs`](./nbs/) | Jupyter notebooks using various apps for learning and testing concepts in python code

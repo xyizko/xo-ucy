@@ -3,7 +3,7 @@
 <h1 align="center"><code> xo-ucy </code></h1>
 <h2 align="center"><i>Cyfrin Updraft Study</i></h2>
 
-![](./GFX/cyf.webp)
+[![](./GFX/cyf.webp)](https://x.com/home)
 
 
 # xo-ucy
