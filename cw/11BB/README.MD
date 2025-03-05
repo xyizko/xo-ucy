@@ -18,4 +18,8 @@ Dir | What
 https://github.com/xyizko/xo-ucy-SSCD-2 
 - Working repository of code from remix 
 
+# Completion Certificate 
+
+![](../../GFX/11bb.png)
+
 
