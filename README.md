@@ -16,4 +16,6 @@
 
 Directory | Description 
 :--: | :--:
-[`11BB`](./cw/11BB/) | Beginner Blockchain Basics
+[`cw`](./cw/) | Coursework related notes in this directory
+
+

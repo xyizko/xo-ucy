@@ -10,3 +10,12 @@
 Dir | What
 :--: | :--: 
 [`nbs`](./nbs/) | Jupyter notebooks using various apps for learning and testing concepts in python code
+
+# Working Repository 
+
+1. The course requires the usage of [`remixide`](https://remix.ethereum.org/), While working you have linked it to the following repository which contains the actual work
+
+https://github.com/xyizko/xo-ucy-SSCD-2 
+- Working repository of code from remix 
+
+
