@@ -23,4 +23,6 @@ Directory | Description
 :--: | :--:
 [`cw`](./cw/) | Coursework related notes in this directory
 
+# Collected NFTS 
 
+[Collected OpenSea Course Collected NFTS](https://testnets.opensea.io/0x692c2826b0518fEf229B4Bca184adE9915D05a73)
