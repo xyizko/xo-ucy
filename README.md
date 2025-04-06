@@ -22,6 +22,7 @@
 Directory | Description 
 :--: | :--:
 [`cw`](./cw/) | Coursework related notes in this directory
+[`ext`](./ext/) | External coursework being done to agument understanding of basics
 
 # Collected NFTS 
 
